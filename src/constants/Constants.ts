@@ -1,0 +1,1 @@
+export const FAV_COVERS = "FAV_COVERS"
